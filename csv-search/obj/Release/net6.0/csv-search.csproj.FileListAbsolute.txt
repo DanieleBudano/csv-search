@@ -1,0 +1,15 @@
+C:\Users\SBDWolf\source\repos\csv-search\csv-search\bin\Release\net6.0\csv-search.exe
+C:\Users\SBDWolf\source\repos\csv-search\csv-search\bin\Release\net6.0\csv-search.deps.json
+C:\Users\SBDWolf\source\repos\csv-search\csv-search\bin\Release\net6.0\csv-search.runtimeconfig.json
+C:\Users\SBDWolf\source\repos\csv-search\csv-search\bin\Release\net6.0\csv-search.dll
+C:\Users\SBDWolf\source\repos\csv-search\csv-search\bin\Release\net6.0\csv-search.pdb
+C:\Users\SBDWolf\source\repos\csv-search\csv-search\obj\Release\net6.0\csv-search.csproj.AssemblyReference.cache
+C:\Users\SBDWolf\source\repos\csv-search\csv-search\obj\Release\net6.0\csv-search.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SBDWolf\source\repos\csv-search\csv-search\obj\Release\net6.0\csv-search.AssemblyInfoInputs.cache
+C:\Users\SBDWolf\source\repos\csv-search\csv-search\obj\Release\net6.0\csv-search.AssemblyInfo.cs
+C:\Users\SBDWolf\source\repos\csv-search\csv-search\obj\Release\net6.0\csv-search.csproj.CoreCompileInputs.cache
+C:\Users\SBDWolf\source\repos\csv-search\csv-search\obj\Release\net6.0\csv-search.dll
+C:\Users\SBDWolf\source\repos\csv-search\csv-search\obj\Release\net6.0\refint\csv-search.dll
+C:\Users\SBDWolf\source\repos\csv-search\csv-search\obj\Release\net6.0\csv-search.pdb
+C:\Users\SBDWolf\source\repos\csv-search\csv-search\obj\Release\net6.0\csv-search.genruntimeconfig.cache
+C:\Users\SBDWolf\source\repos\csv-search\csv-search\obj\Release\net6.0\ref\csv-search.dll

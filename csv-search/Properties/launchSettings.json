@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "csv-search": {
+      "commandName": "Project",
+      "commandLineArgs": "$(SolutionDir)\\test-file\\myFile0.csv 2 Bertold"
+    }
+  }
+}
