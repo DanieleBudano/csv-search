@@ -2,10 +2,11 @@
 // Doing various checks for command line arguments.
 
 const int argumentsAllowedLength = 3;
+string usageString = "Usage: csv-search.exe {file_path} {column_index} {search_term}";
 
 if (args.Length != argumentsAllowedLength)
 {
-    Console.WriteLine("Usage: csv-search.exe {column_index} {search_term}");
+    Console.WriteLine(usageString);
     return;
 }
 
@@ -20,7 +21,7 @@ const int columnMaxIndex = 3;
 
 if (!columnIndexIsInt)
 {
-    Console.WriteLine("Usage: csv-search.exe {column_index} {search_term}");
+    Console.WriteLine(usageString);
     return;
 }
 
