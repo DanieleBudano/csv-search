@@ -4,7 +4,7 @@ A program to look for a match in a csv to a specified keyword.
 The compiled program is in the .\compiled-program directory. Usage:
 
 csv-search.exe {file_path} {column_index} {search_term}
-
+---
 
 The test-batches directory contains a few batch files to quickly try different usages.
 
